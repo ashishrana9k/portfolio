@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from './'
+
 
 export default function Header() {
     return (
