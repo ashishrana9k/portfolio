@@ -1,5 +1,5 @@
 import React from 'react'
-
+import resume from './'
 
 export default function Header() {
     return (
@@ -31,7 +31,7 @@ export default function Header() {
                             <p className='text-3xl '>welcome to my portfolio</p>
                             <p className='text-lg'>Frontend Developer skilled in JavaScript, ReactJS, Next.js, Tailwind CSS, and Redux. I build clean, responsive interfaces and turn complex problems into simple, interactive solutions. Always aiming for performance and usability.</p>
                             <button className='border font-semibold hover:bg-[#A855F7]   bg-[#9333EA] border-[#9333EA] hover:border-[#9333EA] cursor-pointer py-2 px-6 rounded-md'>
-                                <a href="/resume/resume.pdf" target='_black'>Check Resume</a>
+                                <a href="/resume/resume1.pdf" target='_black'>Check Resume</a>
                             </button>
                         </div>
                         <div className='flex justify-center'>
